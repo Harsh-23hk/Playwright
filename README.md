@@ -2,7 +2,7 @@
 learing and practice playwright framework
 Concept practiced till now
 
-Codegen
+ Codegen
 Record test
 Trace viewer
 Selector/Locator
